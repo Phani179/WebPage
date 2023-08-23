@@ -1,0 +1,19 @@
+#form div{
+    margin-bottom: 3%;
+}
+#student_form{
+    background-color: azure;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: solid 2px none;
+    padding-left: 6%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-right: 10px;
+}
+#reset_button{
+    margin-left: 10px;
+}
+#submit_button{
+    margin-left: 29%;
+}
